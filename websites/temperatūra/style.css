@@ -1,0 +1,13 @@
+body {
+    background-image:url(./white-abstract-background_23-2148810113.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.button{
+    width:100%;
+}
+.weather {
+    color:white;
+}
